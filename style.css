@@ -1,0 +1,49 @@
+header {
+    background-color:rgb(206, 228, 38);
+    color:black; 
+    font-size: 20px;
+
+}
+
+main {
+    background-color:rgb(22, 182, 236)
+}
+
+h1 {
+    font-family:fantasy;
+    color:black ;
+    font: bold;  
+    font-weight: 900 ; 
+    text-align:center
+}
+
+h2 { 
+    margin: 2cm; 
+    font-size: 25px; 
+    font: bolder; 
+    color: white; 
+    font-family:fantasy; 
+    text-align:left; 
+    background-color: rgb(184, 119, 0); 
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(3, 164, 3);
+    margin-left: 4cm; 
+    margin-right: 4cm;
+    color:black;
+    font-size: 30px; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: center
+}
+
+p{
+    font:bold; 
+    color:black; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    text-align: justify;
+    text-indent: 1cm;
+    line-height: 0.8cm; 
+    padding: 1cm;
+}
